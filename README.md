@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://i.imgur.com/yHHmzVM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Kap -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
